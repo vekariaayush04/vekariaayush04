@@ -21,7 +21,7 @@ from the ground up: before the tool, the layer it stands on.
 
 ### Proof of work
 
-**[Sentinel](https://github.com/vekariaayush04/sentinel)**<br />
+**[a0](https://github.com/vekariaayush04/a0)**<br />
 A harness orchestrator for Claude Code. Claude plans and reviews, headless
 agents on cheaper models do the work, and one local page shows every run,
 log and cost.
