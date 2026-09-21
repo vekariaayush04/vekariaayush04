@@ -14,6 +14,9 @@ I build small, sharp tools. I care about the details you only notice
 when they are missing: speed, quiet interfaces, and defaults that are
 right.
 
+Backend systems are where I feel most at home. I learn them from the
+ground up: before the tool, the layer it stands on.
+
 <br />
 
 ### Selected work
