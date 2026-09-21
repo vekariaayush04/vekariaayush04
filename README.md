@@ -1,11 +1,46 @@
-# 💫 About Me:
-A passionate full stack developer 
+<div align="center">
 
+<br />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vekariaayush04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vekariaayush04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vekariaayush04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Ayush Vekariya
 
+Software that stays out of the way.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br />
+
+</div>
+
+I build small, sharp tools, mostly for developers and mostly in
+TypeScript, Rust and Go. I care about the details you only notice when
+they are missing: speed, quiet interfaces, and defaults that are right.
+
+<br />
+
+### Selected work
+
+**[Sentinel](https://github.com/vekariaayush04/sentinel)**<br />
+A harness orchestrator for Claude Code. Claude plans and reviews, headless
+agents on cheaper models do the work, and one local page shows every run,
+log and cost.
+
+**[mdread](https://github.com/vekariaayush04/mdread)**<br />
+A terminal Markdown reader, written in Rust.
+
+**[http1.1](https://github.com/vekariaayush04/http1.1)**<br />
+HTTP/1.1 from scratch in Go, from the TCP socket up.
+
+**[AlgoArena](https://github.com/vekariaayush04/AlgoArena)**<br />
+A LeetCode-style judge: submit code, run it against test cases.
+
+<br />
+
+### Now
+
+Building PrepWiser, a practice layer for JEE students.
+
+<br />
+
+### Contact
+
+[ayushrvekariya@gmail.com](mailto:ayushrvekariya@gmail.com)
+
