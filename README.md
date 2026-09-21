@@ -4,7 +4,7 @@
 
 # Ayush Vekariya
 
-Engineering | Vibe Coder
+Engineering.
 
 <br />
 
