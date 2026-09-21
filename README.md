@@ -4,7 +4,7 @@
 
 # Ayush Vekariya
 
-Software that stays out of the way.
+Engineering that stays out of the way.
 
 <br />
 
@@ -14,8 +14,8 @@ I build cool, sharp tools. I care about the details you only notice
 when they are missing: speed, quiet interfaces, and defaults that are
 right.
 
-Backend systems are where i learn something new everyday. I learn them from the
-ground up: before the tool, the layer it stands on.
+Backend systems are where I learn something new every day. I take them
+from the ground up: before the tool, the layer it stands on.
 
 <br />
 
