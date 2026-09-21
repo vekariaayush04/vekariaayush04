@@ -32,9 +32,6 @@ Head-to-head duels. Ninety seconds, the same problems, fastest brain wins.
 **[mdread](https://github.com/vekariaayush04/mdread)**<br />
 A terminal Markdown reader, written in Rust.
 
-**[http1.1](https://github.com/vekariaayush04/http1.1)**<br />
-HTTP/1.1 from scratch in Go, from the TCP socket up.
-
 **[AlgoArena](https://github.com/vekariaayush04/AlgoArena)**<br />
 A LeetCode-style judge: submit code, run it against test cases.
 
