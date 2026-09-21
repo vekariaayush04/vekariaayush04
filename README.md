@@ -19,12 +19,15 @@ ground up: before the tool, the layer it stands on.
 
 <br />
 
-### Selected work
+### Proof of work
 
 **[Sentinel](https://github.com/vekariaayush04/sentinel)**<br />
 A harness orchestrator for Claude Code. Claude plans and reviews, headless
 agents on cheaper models do the work, and one local page shows every run,
 log and cost.
+
+**[Duellia](https://duellia.com)**<br />
+Head-to-head duels. Ninety seconds, the same problems, fastest brain wins.
 
 **[mdread](https://github.com/vekariaayush04/mdread)**<br />
 A terminal Markdown reader, written in Rust.
