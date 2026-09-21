@@ -10,9 +10,9 @@ Software that stays out of the way.
 
 </div>
 
-I build small, sharp tools, mostly for developers and mostly in
-TypeScript, Rust and Go. I care about the details you only notice when
-they are missing: speed, quiet interfaces, and defaults that are right.
+I build small, sharp tools, mostly for developers. I care about the
+details you only notice when they are missing: speed, quiet interfaces,
+and defaults that are right.
 
 <br />
 
