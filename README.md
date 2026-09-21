@@ -4,7 +4,7 @@
 
 # Ayush Vekariya
 
-Engineering that stays out of the way.
+Engineering.
 
 <br />
 
