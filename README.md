@@ -4,7 +4,7 @@
 
 # Ayush Vekariya
 
-Engineering.
+AI & Engineering.
 
 <br />
 
